@@ -1,0 +1,54 @@
+{
+  "pagesCore": {
+    "descButtonsKnowMore": ["Know More", "Erfahren", "En savoir"],
+    "notificationOne": [
+      "You can scan QR to know info",
+      "Sie können QR scannen, um Informationen zu erhalten",
+      "Vous pouvez scanner le QR pour connaître les informations"
+    ],
+    "audioReplayButton": ["Replay", "Wiederholung", "Rejouer"],
+    "pathTitle": ["Visiting Path", "Besuchspfad", "Parcours de visite"],
+    "pathNow": ["Now", "Jetzt", "Maintenant"],
+    "settings": []
+  },
+  
+  "chefsHouse": {
+    "descTitle": [
+      "Entry at the Chef’s House",
+      "Eintritt im Chef's House",
+      "Entrée à la Maison du Che"
+    ],
+    "descTitleData": [
+      "A special focus will be placed on the Chef's House itself, which, despite its relative comfort, was part of the broader prison system. It illustrates Mandela’s controlled reintegration into society",
+      "Ein besonderer Schwerpunkt liegt auf dem Chef's House selbst, das trotz seines relativen Komforts Teil des größeren Gefängnissystems war. Es veranschaulicht Mandelas kontrollierte Wiedereingliederung in die Gesellschaf",
+      "Une attention particulière sera portée à la Maison du Chef elle-même, qui, malgré son confort relatif, faisait partie du système carcéral plus large. Elle illustre la réinsertion sociale contrôlée de mandela"
+    ],
+    "descButtonsAudioTime": "0M 29S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript1.mp3",
+      "assets/audio/Iziko_GermanScript1.mp3",
+      "assets/audio/Iziko_FrenchScript1.mp3"
+    ],
+    "pathNext": ["Pantry", "Almeda", "Office"]
+  },
+
+  "pantry": {
+    "descTitle": [
+      "Pantry: Surveillance and Control",
+      "Speisekammer: Überwachung und Kontrolle",
+      "Garde-manger : surveillance et contrôle"
+    ],
+    "descTitleData": [
+      "Visitors enter the pantry, symbolizing the constant surveillance Mandela endured. While it may seem like an ordinary domestic space, it reflects the invasive control of the apartheid state",
+      "Besucher betreten die Speisekammer, die die ständige Überwachung symbolisiert, die Mandela erdulden musste. Obwohl sie wie ein gewöhnlicher Wohnraum wirkt, spiegelt sie die invasive Kontrolle des Apartheidstaates wider",
+      "Les visiteurs pénètrent dans le garde-manger, symbole de la surveillance constante subie par Mandela. Bien qu'il puisse sembler être un espace domestique ordinaire, il reflète le contrôle envahissant de l'État d'apartheid"
+    ],
+    "descButtonsAudioTime": "0M 30S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript2.mp3",
+      "assets/audio/Iziko_GermanScript2.mp3",
+      "assets/audio/Iziko_FrenchScript2.mp3"
+    ],
+    "pathNext": ["Kitchen", "Küche", "Cuisine"]
+  }
+}
