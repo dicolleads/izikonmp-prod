@@ -11,7 +11,7 @@
     "pathNow": ["Now", "Jetzt", "Maintenant"],
     "settings": []
   },
-  
+
   "chefsHouse": {
     "descTitle": [
       "Entry at the Chef’s House",
@@ -34,7 +34,7 @@
 
   "pantry": {
     "descTitle": [
-      "Pantry: Surveillance and Control",
+      "Pantry Surveillance",
       "Speisekammer: Überwachung und Kontrolle",
       "Garde-manger : surveillance et contrôle"
     ],
@@ -50,5 +50,205 @@
       "assets/audio/Iziko_FrenchScript2.mp3"
     ],
     "pathNext": ["Kitchen", "Küche", "Cuisine"]
+  },
+
+  "kitchen": {
+    "descTitle": [
+      "Kitchen: Daily Life",
+      "Küche: Alltag",
+      "Cuisine : Vie Quotidienne"
+    ],
+    "descTitleData": [
+      "The kitchen provides insight into Mandela’s everyday life, illustrating his personal preferences amidst imprisonment",
+      "Die Küche bietet Einblicke in Mandelas Alltag und veranschaulicht seine persönlichen Vorlieben während der Gefangenschaft",
+      "La cuisine donne un aperçu de la vie quotidienne de Mandela, illustrant ses préférences personnelles au milieu de l'emprisonnement"
+    ],
+    "descButtonsAudioTime": "0M 31S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript3.mp3",
+      "assets/audio/Iziko_GermanScript3.mp3",
+      "assets/audio/Iziko_FrenchScript3.mp3"
+    ],
+    "pathNext": ["Family", "Familie", "Chambre"]
+  },
+
+  "family": {
+    "descTitle": [
+      "Family: Isolation & Liberation",
+      "Familie: Isolation und Befreiung",
+      "Famille : Isolement et libération"
+    ],
+    "descTitleData": [
+      "The Family Room delves into the final years of Nelson Mandela’s imprisonment at Victor Verster, emphasizing the theme of isolation",
+      "Der Familienraum befasst sich mit den letzten Jahren von Nelson Mandelas Gefangenschaft im Victory Verster Gefängnis und beleuchtet das Thema Isolation",
+      "La salle familiale se penche sur les dernières années de l'emprisonnement de Nelson Mandela à Victor Verster, en mettant l'accent sur le thème de l'isolement"
+    ],
+    "descButtonsAudioTime": "0M 30S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript4.mp3",
+      "assets/audio/Iziko_GermanScript4.mp3",
+      "assets/audio/Iziko_FrenchScript4.mp3"
+    ],
+    "pathNext": ["Dining", "Essen", "À manger"]
+  },
+
+  "dining": {
+    "descTitle": [
+      "Dining Room and Formal Lounge",
+      "Esszimmer und formelle Lounge",
+      "Salle à manger et salon formel"
+    ],
+    "descTitleData": [
+      "The dining room and lounge reveal Mandela’s transition into a leadership role within post-apartheid South Africa",
+      "Der Speisesaal und die Lounge zeigen Mandelas Übergang in eine Führungsrolle im Südafrika nach der Apartheid",
+      "La salle à manger et le salon révèlent la transition de Mandela vers un rôle de leader dans l'Afrique du Sud post-apartheid"
+    ],
+    "descButtonsAudioTime": "0M 31S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript5.mp3",
+      "assets/audio/Iziko_GermanScript5.mp3",
+      "assets/audio/Iziko_FrenchScript5.mp3"
+    ],
+    "pathNext": ["Study", "Studie", "Étude"]
+  },
+
+  "study": {
+    "descTitle": [
+      "Study/Medical Room",
+      "Arbeitszimmer/Arztzimmer",
+      "Salle d'étude/salle médicale"
+    ],
+    "descTitleData": [
+      "The exhibition culminates in a tribute to the global Free Nelson Mandela movement",
+      "Die Ausstellung gipfelt in einer Hommage an die globale Free Nelson Mandela-Bewegung",
+      "L'exposition se termine par un hommage au mouvement mondial Free Nelson Mandela"
+    ],
+    "descButtonsAudioTime": "0M 31S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript6.mp3",
+      "assets/audio/Iziko_GermanScript6.mp3",
+      "assets/audio/Iziko_FrenchScript6.mp3"
+    ],
+    "pathNext": ["BedRoom 4", "Schlafzimmer 4", "Chambre 4"]
+  },
+
+  "bedRoom4": {
+    "descTitle": ["Bed Room 4", "Schlafzimmer 4", "Chambre 4"],
+    "descTitleData": [
+      "This section explores Mandela’s transformative time at Victor Verster Prison, emphasizing introspection, resilience, and strategic vision",
+      "Dieser Abschnitt untersucht Mandelas prägende Zeit im Victor-Verster-Gefängnis und betont dabei Selbstbeobachtung, Widerstandsfähigkeit und strategische Vision",
+      "Cette section explore la période transformatrice de Mandela à la prison Victor Verster, en mettant l'accent sur l'introspection, la résilience et la vision stratégique"
+    ],
+    "descButtonsAudioTime": "0M 31S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript7.mp3",
+      "assets/audio/Iziko_GermanScript7.mp3",
+      "assets/audio/Iziko_FrenchScript7.mp3"
+    ],
+    "pathNext": ["BedRoom 3", "Schlafzimmer 3", "Chambre 3"]
+  },
+
+  "bedRoom3": {
+    "descTitle": ["Bed Room 3", "Schlafzimmer 3", "Chambre 3"],
+    "descTitleData": [
+      "This section presents Mandela beyond his political role, focusing on his personal values, relationships, and daily life",
+      "Dieser Abschnitt stellt Mandela über seine politische Rolle hinaus vor und konzentriert sich auf seine persönlichen Werte, Beziehungen und sein tägliches Leben",
+      "Cette section présente Mandela au-delà de son rôle politique, en se concentrant sur ses valeurs personnelles, ses relations et sa vie quotidienne"
+    ],
+    "descButtonsAudioTime": "0M 30S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript8.mp3",
+      "assets/audio/Iziko_GermanScript8.mp3",
+      "assets/audio/Iziko_FrenchScript8.mp3"
+    ],
+    "pathNext": ["BedRoom 2", "Schlafzimmer 2", "Chambre 2"]
+  },
+
+  "bedRoom2": {
+    "descTitle": ["Bed Room 2", "Schlafzimmer 2", "Chambre 2"],
+    "descTitleData": [
+      "This space explores how Mandela’s imprisonment became a symbol of global resistance and how his leadership principles continue to inspire generations",
+      "Dieser Raum untersucht, wie Mandelas Inhaftierung zu einem Symbol des globalen Widerstands wurde und wie seine Führungsprinzipien weiterhin Generationen inspirieren",
+      "Cet espace explore comment l’emprisonnement de Mandela est devenu un symbole de résistance mondiale et comment ses principes de leadership continuent d’inspirer des générations"
+    ],
+    "descButtonsAudioTime": "0M 29S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript9.mp3",
+      "assets/audio/Iziko_GermanScript9.mp3",
+      "assets/audio/Iziko_FrenchScript9.mp3"
+    ],
+    "pathNext": ["Bedroom", "Schlafzimmer", "Coucher"]
+  },
+
+  "bedRoom": {
+    "descTitle": ["Main Bedroom", "Hauptschlafzimmer", "Chambre principale"],
+    "descTitleData": [
+      "This section celebrates the pivotal moment of Mandela’s release on February 11, 1990, marking the transition from apartheid to democracy",
+      "Dieser Abschnitt würdigt den entscheidenden Moment der Freilassung Mandelas am 11. Februar 1990, der den Übergang von der Apartheid zur Demokratie markierte",
+      "Cette section célèbre le moment charnière de la libération de Mandela le 11 février 1990, marquant la transition de l'apartheid à la démocratie"
+    ],
+    "descButtonsAudioTime": "0M 28S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript10.mp3",
+      "assets/audio/Iziko_GermanScript10.mp3",
+      "assets/audio/Iziko_FrenchScript10.mp3"
+    ],
+    "pathNext": ["Stoep", "Halt", "Arrêtez-vous"]
+  },
+
+  "stoep": {
+    "descTitle": ["Stoep", "Halt", "Arrêtez-vous"],
+    "descTitleData": [
+      "Symbolize Mandela’s release as a moment of liberation and transformation",
+      "Symbolisieren Sie Mandelas Freilassung als einen Moment der Befreiung und Transformation",
+      "Symboliser la libération de Mandela comme un moment de libération et de transformation"
+    ],
+    "descButtonsAudioTime": "0M 32S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript11.mp3",
+      "assets/audio/Iziko_GermanScript11.mp3",
+      "assets/audio/Iziko_FrenchScript11.mp3"
+    ],
+    "pathNext": ["Swimming Pool", "Schwimmbad", "Piscine"]
+  },
+
+  "swimmingPool": {
+    "descTitle": [
+      "Swimming Pool & Braai Area",
+      "Swimmingpool und Grillplatz",
+      "Piscine et espace barbecue"
+    ],
+    "descTitleData": [
+      "Illustrate the tension between the small freedoms Mandela was given and the constant surveillance",
+      "Veranschaulichen Sie die Spannung zwischen den kleinen Freiheiten, die Mandela gewährt wurden, und der ständigen Überwachung",
+      "Illustrer la tension entre les petites libertés accordées à Mandela et la surveillance constante"
+    ],
+    "descButtonsAudioTime": "0M 28S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript12.mp3",
+      "assets/audio/Iziko_GermanScript12.mp3",
+      "assets/audio/Iziko_FrenchScript12.mp3"
+    ],
+    "pathNext": ["Garden", "Garten", "Jardin"]
+  },
+
+  "garden": {
+    "descTitle": [
+      "The Garden and Freedom Gate",
+      "Der Garten und das Freiheitstor",
+      "Le Jardin et la Porte de la Liberté"
+    ],
+    "descTitleData": [
+      "From Prisoner to President: Freedom Lane marks the final stage of Mandela’s journey, with visuals and quotes highlighting his presidency and leadership in building South Africa’s democracy",
+      "Vom Gefangenen zum Präsidenten: Freedom Lane markiert die letzte Etappe von Mandelas Reise und zeigt Bilder und Zitate, die seine Präsidentschaft und seine Führungsrolle beim Aufbau der südafrikanischen Demokratie hervorheben",
+      "De prisonnier à président : Freedom Lane marque la dernière étape du parcours de Mandela, avec des visuels et des citations soulignant sa présidence et son leadership dans la construction de la démocratie en Afrique du Sud"
+    ],
+    "descButtonsAudioTime": "0M 30S",
+    "audioSrc": [
+      "assets/audio/Iziko_EnglishScript13.mp3",
+      "assets/audio/Iziko_GermanScript13.mp3",
+      "assets/audio/Iziko_FrenchScript13.mp3"
+    ],
+    "pathNext": ["Garden", "Garten", "Jardin"]
   }
 }
